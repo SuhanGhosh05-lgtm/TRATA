@@ -6,7 +6,7 @@ The application is intended for demonstration, academic, and prototype use. Its 
 
 ## Overview
 
-The host application provides:
+The host application provides:-
 
 - citizen reporting, including SOS-style reports and location-based risk assessment;
 - deterministic incident-priority calculation and optional Gemini-assisted triage;

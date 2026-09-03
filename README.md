@@ -1,6 +1,6 @@
 # TRATA
 
-TRATA is a disaster-management and emergency-response prototype. It brings together citizen incident reporting, risk assessment, map-based situational awareness, rescue-unit coordination, public-alert workflows, and a graph-based priority-response module.
+TRATA is a disaster-management and emergency-response prototype. It brings together citizen incident reporting, risk assessment, map-based situational awareness,rescue-unit coordination, public-alert workflows, and a graph-based priority-response module.
 
 The application is intended for demonstration, academic, and prototype use. Its Sundarbans routing network is deterministic sample data, not a live emergency dispatch or road-navigation service.
 
